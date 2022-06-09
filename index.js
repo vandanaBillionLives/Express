@@ -25,4 +25,5 @@ app.get("/api/welcome", (req, res)=>{
               res.json(resJson);
                 
             }) 
+            
 })
