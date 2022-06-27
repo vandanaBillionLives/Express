@@ -1,6 +1,10 @@
 const { AES } = require("crypto-js");
 let CryptoJS = require("crypto-js");
 
+
+app.use(express.urlencoded({ extended: false }))
+app.use(express.json())
+
 module.exports = {
 
 

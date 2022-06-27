@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "user",
+    "password": "HWf6frqGoR61",
+    "database": "SUNIDHI_CORE_V2_0",
+    "host": "10.0.10.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "user",
+    "password": "HWf6frqGoR61",
+    "database": "SUNIDHI_CORE_V2_0",
+    "host": "10.0.10.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "user",
+    "password": "HWf6frqGoR61",
+    "database": "SUNIDHI_CORE_V2_0",
+    "host": "10.0.10.1",
+    "dialect": "mysql"
+  }
+}
